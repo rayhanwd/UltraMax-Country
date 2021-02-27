@@ -1,7 +1,16 @@
 .App {
   text-align: center;
-}
 
+}
+.text-content{
+  position:sticky;
+  top:0;
+  background-color:goldenrod;
+  padding:10px;
+  display:flex;
+  align-items:center;
+  justify-content: space-around;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
